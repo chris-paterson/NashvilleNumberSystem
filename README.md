@@ -27,6 +27,7 @@ From here we apply the pattern:
 
 
 Using the G major scale we get the progression:
+
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | G | Am | Bm | C | D | Em | F#dim | G |
